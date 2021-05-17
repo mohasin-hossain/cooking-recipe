@@ -4,12 +4,14 @@
 @import "buttons.css";
 @import "ingredient-list.css";
 @import "recipe.css";
+@import "recipe-edit.css";
 
 *,
 *::before,
 *::after {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body {
